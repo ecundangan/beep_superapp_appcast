@@ -10,9 +10,9 @@
         </item>
         <item>
         <title>Version 4.0</title>
-        <pubDate>Tue, 26 Sep 2023 12:00:00 +0800</pubDate>
-        <enclosure url="https://apps.apple.com/us/app/beep/id1364301693" sparkle:version="7.1.22" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
-    </item>
+            <pubDate>Tue, 26 Sep 2023 12:00:00 +0800</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/beep/id1364301693" sparkle:version="7.1.22" sparkle:os="iOS" />
+            <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
